@@ -1,0 +1,19 @@
+{
+  "name": "node-port-listen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": {
+    "name" : "Ali Sincar",
+    "email" : "ali@mozared.com",
+    "url" : "http://github.com/alisincar"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
